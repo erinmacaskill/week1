@@ -1,0 +1,43 @@
+#img1 {
+    width: 150px;
+    height: 100px;
+    min-width: 20%;
+    text-align: right;
+}
+table {
+    width: 100%;
+}
+#h21 {
+    text-align: center;
+}
+#p1 {
+    float: left;
+    padding: 15px;
+    width: 5%;
+}
+#p2 {
+    float: left;
+    padding: 15px;
+    width: 5%;
+}
+#p3 {
+    float: left;
+    padding: 15px;
+    width: 5%;
+}
+#p4 {
+    float:none;
+    padding: 15px;
+    width: 5%;
+}
+#p5 {
+    float: left;
+    padding: 15px;
+    width: 5%;
+}
+#p6 {
+    float: left;
+    padding: 15px;
+    width: 5%;
+}
+/*im hoping to learn how to format better soon*/
